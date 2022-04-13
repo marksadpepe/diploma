@@ -1,5 +1,5 @@
 def get_product_info(soup, products, producer):
-	if producer == 'lg':
+	if producer in ('lg', 'jbl'):
 		producer = producer.upper()
 	else:
 		producer = producer.capitalize()
