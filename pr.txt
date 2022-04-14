@@ -1,0 +1,407 @@
+AOC: Монитор 23.8" AOC 24G2U/BK ----> 7 499
+AOC: Монитор 23.8" AOC 24G2AE/BK ----> 6 599
+AOC: Монитор 23.8" AOC 24G2/BK/01 ----> 6 999
+AOC: Монитор 23.6" AOC C24G2AE/BK ----> 6 799
+AOC: Монитор 21.5" AOC 22B2H Black (22B2H/EU) ----> 4 299
+AOC: Монитор 31.5" AOC Q32V4 ----> 10 199
+AOC: Монитор 23.8" AOC 24B2XD ----> 4 899
+AOC: Монитор 23.8" AOC 24P2C ----> 7 999
+AOC: Монитор AOC U32E2N ----> 17 397
+AOC: Монитор 34" AOC CU34G2X ----> 21 549
+AOC: Монитор AOC 27G2U/BK ----> 12 897
+AOC: Монитор AOC 31.5" CQ32G1 ----> 13 609
+AOC: Монітор AOC AG271QG ----> 31 211
+AOC: Монитор AOC 31.5" Q32V4 IPS Black; 2560x1440, 4 мс, 250 кд/м2, DisplayPort, HDMI, динамики 2х2 Вт ----> 10 169
+AOC: Монитор AOC I1659FWUX ----> 7 526
+AOC: Монитор AOC 24G2ZE/BK ----> 13 917
+AOC: Монитор AOC 31.5" CQ32G2SE/BK ----> 14 124
+AOC: Монітор AOC Agon AG493UCX ----> 54 117
+AOC: Монитор AOC 24" C24G1 ----> 16 686
+AOC: Монитор AOC G2490VXA ----> 9 323
+AOC: Монитор AOC 24G2U5 Black ----> 8 257
+AOC: Монитор AOC 24G2U/BK ----> 9 417
+AOC: Монитор AOC AG353UCG ----> 122 933
+AOC: Монитор AOC 24" 24G2U ----> 11 465
+AOC: Монитор AOC AG271QG ----> 31 889
+AOC: Монитор AOC 24,5" AGON (AG254FG) ----> 41 813
+AOC: AOC 21.5" E2270SWN Black; 1920х1080, 200 кд/м2, 5 мс, D-Sub ----> 5 371
+AOC: Монитор AOC 22V2Q ----> 6 921
+AOC: Монитор AOC 27B2QAM ----> 7 980
+AOC: Монитор AOC 27" Q27P2Q IPS Black ----> 10 728
+AOC: Монитор AOC 27" Q27G2U/BK ----> 15 896
+AOC: Монитор AOC 24G2ZU (24G2ZUBK) ----> 16 167
+AOC: Монитор AOC U32P2CA ----> 23 411
+AOC: Монитор AOC CU34G2/BK ----> 22 367
+AOC: Монитор AOC AGON AG271QG (F00131618) ----> 17 521
+AOC: Монитор AOC 24B2XH (F00201219) ----> 7 187
+AOC: Монитор AOC C32G3AE/BK ----> 15 468
+AOC: Монитор AOC C24G2AE/BK ----> 9 493
+AOC: Монитор AOC C27G2AE/BK ----> 12 897
+AOC: Монитор AOC 21.5" E2270SWN Black; 1920х1080, 5 мс, 200 кд/м2, D-Sub ----> 5 200
+AOC: Монитор AOC AG493UCX ----> 56 149
+AOC: Монитор AOC Q27T1 ----> 12 549
+AOC: Монітор AOC 22B2QAM ----> 5 685
+AOC: Монітор AOC U32P2CA ----> 23 372
+AOC: Монитор AOC Q27V4EA ----> 10 701
+AOC: Монитор AOC 27" U2790PQU ----> 17 994
+AOC: Монитор AOC 24,5" G2590PX ----> 13 193
+AOC: Монитор AOC 27" 27G2U ----> 12 946
+AOC: Монитор AOC 27" C27G2ZE ----> 14 353
+ASUS: Монитор ASUS 27" VG278QF Black; 1920x1080 (165 Гц), 1 мс, 400 кд/м2, DVI-D, HDMI, DisplayPort ----> 11 000
+ASUS: Монитор ASUS 24.5" ROG Strix XG258Q Dark Gray/Red ----> 16 799
+ASUS: Монитор ASUS 24.5" ROG Strix XG258Q Dark Gray/Red; 1920x1080, 1 мс, 400 кд/м2, DisplayPort, 2хHDMI ----> 16 769
+ASUS: Монитор ASUS 24.5" PG259QNR IPS Black ----> 40 799
+ASUS: Монитор ASUS 18.5" VS197DE Black (90LMF1001T02201C); 1366x768, 5 мс, 200 кд/м2, D-Sub ----> 4 832
+ASUS: Монитор ASUS 27" ROG Strix XG27WQ VA Black; 2560x1440 (165 Гц), 1 мс, 450 кд/м2, DisplayPort, 2хHDMI, 2хUSB3.0 ----> 23 018
+ASUS: Монитор ASUS 27" ROG Strix XG27UQR IPS Black ----> 35 999
+ASUS: Монитор ASUS 64,5" ROG Swift (PG65UQ) ----> 299 294
+ASUS: Монитор ASUS 24.5" PG259QNR IPS Black; 1920х1080 (360 Гц), 1 мс, 400 кд/м2, DisplayPort, HDMI, 2хUSB3.0 ----> 40 769
+ASUS: Монитор ASUS 24" TUF Gaming VG249Q (90LM05E0-B01170) ----> 11 095
+ASUS: Монитор ASUS 27" ROG Strix XG27UQR IPS Black; 3840x2160 (144 Гц), 1 мс, 400 кд/м2, 2xDisplayPort, 2xHDMI, 2хUSB3.0 ----> 35 969
+ASUS: Монитор ASUS 49" ROG Strix XG49VQ (90LM04H0-B01170) ----> 52 439
+ASUS: Монитор ASUS 23.8" ROG Strix XG249CM (90LM07K0-B01A70) IPS Dark Gray/Red ----> 18 414
+ASUS: Монитор ASUS 35" VG35VQ VA Black Curved; 3440х1440, 1 мс, 400 кд/м2, 2хHDMI, DisplayPort, 2хUSB3.0, динамики 2х2 Вт ----> 26 940
+ASUS: Монитор ASUS 27" VG279Q1A IPS Black 165Hz; 1920x1080 (165Гц), 1 мс, 250 кд/м2, DisplayPort, 2хHDMI, динамики 2х2 Вт ----> 11 491
+ASUS: Монитор ASUS ROG Swift PG329Q (90LM06L0-B01170) ----> 33 584
+ASUS: Монитор ASUS 21.5" VP228DE Black; 1920x1080, 5 мс, 200 кд/м2, D-Sub ----> 5 427
+ASUS: Монитор ASUS 24.5" VG258QM Black 280Hz; 1920х1080 (280 Гц), 0.5 мс, 400 кд/м2, 2хHDMI, DisplayPort, динамики 2х2 Вт ----> 11 775
+ASUS: Монитор ASUS 27" TUF Gaming VG279QM (90LM05H0-B01370) ----> 18 241
+ASUS: Монитор ASUS 31.5" VG32VQ1BR VA Black Curved; 2560х1440 (165 Гц), 1 мс, 250 кд/м2, DisplayPort, 2хHDMI, динамики 2х2 Вт ----> 16 995
+ASUS: Монитор ASUS 27" VA27DQ (90LM06H3-B01370) IPS Black ; 1920x1080, 5 мс, 250 кд/м2, DisplayPort, HDMI, D-Sub, динамики 2х2 Вт ----> 9 165
+ASUS: Монитор ASUS 24.5" VG258QM Black 280Hz ----> 14 322
+ASUS: Монитор ASUS ProArt 27" Professional (PA278CV) ----> 24 054
+ASUS: Монитор ASUS 27" VG27AQ IPS Black; 2560х1440 (165 Гц), 1 мс, 350 кд/м2, DisplayPort, 2хHDMI, динамики 2х2 Вт ----> 19 704
+ASUS: Монитор ASUS 27" VG27VQ VA Black Curved ----> 12 239
+ASUS: Монитор ASUS ROG SWIFT PG259QN HDR (90LM05Q0B01370) ----> 37 012
+ASUS: Монитор ASUS VG248QG 24" (90LMGG901Q022E1C) ----> 9 861
+ASUS: Монитор ASUS TUF Gaming VG259QR (90LM0530-B03370) ----> 10 240
+ASUS: Монитор ASUS ROG Strix XG27AQ (90LM06U0-B01370) ----> 19 246
+ASUS: ASUS VP228DE (90LM01K0-B04170) ----> 5 381
+ASUS: Монитор ASUS ROG STRIX XG32VC Curved HDR (90LM03S0B04170) ----> 28 373
+ASUS: Монитор ASUS 27" VG27AQ IPS Black ----> 14 694
+ASUS: Монитор ASUS 27" VG27VQ VA Black Curved; 1920х1080 (165 Гц), 1 мс, 400 кд/м2, HDMI, DisplayPort, DVI, динамики 2х2 Вт ----> 9 994
+Acer: Монитор 27" Acer V277Ubmiipx (UM.HV7EE.010) ----> 7 888
+Acer: Монитор 23.8" Acer SB241YBI (UM.QS1EE.001) ----> 4 999
+Acer: Монитор 27" Acer Nitro VG270 (UM.HV0EE.013) ----> 6 999
+Acer: Монитор 23.8" Acer SA240YAbi (UM.QS0EE.A01) ----> 4 799
+Acer: Монитор 23.8" Acer HA240YAwi (UM.QW0EE.A01) ----> 5 199
+Acer: Монитор 27" Acer Nitro VG270bmiix (UM.HV0EE.001) ----> 5 999
+Acer: Монитор 34" Acer Nitro XV340CKPbmiipphzx (UM.CX0EE.P05) ----> 20 099
+Acer: Монитор Acer 23.8" VG240YBMIIX (UM.QV0EE.001) IPS Black; 1920x1080, 1 мс, 250 кд/м2, 2хHDMI, D-Sub, динамики 2x2 Вт ----> 6 944
+Acer: Монитор Acer Nitro VG240Ybmiix 23,8" (UM.QV0EE.001) ----> 7 393
+Acer: Монитор Acer Nitro VG240Y (UM.QV0EE.001) ----> 7 250
+Acer: Монитор Acer V246HQLbi (UM.UV6EE.005) ----> 7 175
+Acer: Монитор Acer 23.8" SB241YBI (UM.QS1EE.001) ----> 5 555
+Acer: Монитор Acer Nitro VG270Sbmiipx 27" (UM.HV0EE.S01) ----> 11 786
+Acer: Монитор Acer Predator XB273UGSbmiiprzx 27" (UM.HX0EE.S01) ----> 26 991
+Acer: Монитор Acer Predator X38Pbmiphzx 37,5" (UM.TX0EE.P01) ----> 99 793
+Acer: Монитор Acer Nitro EI491CRPbmiiipx 49" (UM.SE1EE.P01) ----> 45 651
+Acer: ЖК монитор Acer Nitro XV340CKPbmiipphzx UM.CX0EE.P05 ----> 21 275
+Acer: Монитор Acer Predator X25bmiiprzx 24,5" (UM.KX0EE.006) ----> 31 668
+Acer: Монитор Acer Nitro VG272Sbmiipx 27" (UM.HV2EE.S04) ----> 12 132
+Acer: Монитор Acer Nitro VG270UPbmiipx 27" (UM.HV0EE.P01) ----> 15 822
+Acer: Монитор Acer Nitro XV252QZbmiiprx 24,5" (UM.KX2EE.Z01) ----> 17 266
+Acer: Монитор Acer Nitro XV253QPbmiiprzx 24,5" (UM.KX3EE.P04) ----> 12 946
+Acer: Монитор Acer Nitro RG271Pbiipx 27" (UM.HR1EE.P01) ----> 12 329
+Acer: Монитор Acer Predator XB323UGXbmiiphzx 32" (UM.JX3EE.X01) ----> 36 395
+Acer: Монитор Acer Nitro XV252QFbmiiprx 24,5" (UM.KX2EE.F01) ----> 25 905
+Acer: Монитор Acer Nitro EI242QRPbiipx 23,6" (UM.UE2EE.P01) ----> 9 861
+Acer: Монитор Acer Nitro XV270bmiprx (UM.HX0EE.015) ----> 11 324
+Acer: Монитор Acer Predator X34GSbmiipphuzx 34" (UM.CX0EE.S01) ----> 62 312
+Acer: Монитор Acer SA270Abi 27" (UM.HS0EE.A01) ----> 9 194
+Acer: Монитор Acer Nitro VG272UVbmiipx 27" (UM.HV2EE.S01) ----> 19 734
+Acer: Монитор Acer DD550Abi ----> 317 510
+Acer: Монитор Acer 23.8" VG240YBMIIX (UM.QV0EE.001) IPS Black ----> 7 254
+Acer: Монитор Acer V206HQLAb (UM.IV6EE.A01/UM.IV6EE.A02) ----> 5 148
+Acer: Монитор Acer Nitro XV431CPwmiiphx 43,8" (UM.MX1EE.P01) ----> 48 119
+Acer: Монитор Acer Predator XB273GPbmiiprzx 27" (UM.HX3EE.P20) ----> 18 376
+Acer: Монітор Acer Nitro VG240Y (UM.QV0EE.001) ----> 6 949
+Acer: Монитор Acer R240Ysi (UM.QR0EE.015) ----> 7 444
+Acer: Монитор Acer Predator CG437KPbmiiippuzx 43" (UM.HC7EE.P01) ----> 60 412
+Acer: Монитор Acer Predator XB253QGZbmiiprzx 24,5" (UM.KX3EE.Z01) ----> 20 968
+Acer: Монитор Acer B276HULEymiipruzx 27" (UM.HB6EE.E01) ----> 20 968
+Acer: Монитор Acer Predator XB323UGPbmiiphzx 32" (UM.JX3EE.P01) ----> 39 419
+Acer: Монитор Acer Nitro VG252QXbmiipx 24,5" (UM.KV2EE.X01) ----> 16 278
+Acer: Монитор Acer Predator XB253QGPbmiiprzx 24,5" (UM.KX3EE.P08) ----> 15 156
+Acer: Монитор Acer Nitro VG270Ubmiipx 27" (UM.HV0EE.007) ----> 12 206
+Acer: Монитор Acer Nitro QG241Ybii 23,8" (UM.QQ1EE.001) ----> 7 541
+Acer: Монитор Acer Nitro XV322QUPbmiipprzx 31,5" (UM.JX2EE.P08) ----> 24 671
+Acer: Монитор Acer Nitro VG271UPbmiipx 27" (UM.HV1EE.P01) ----> 15 415
+Acer: Монитор Acer Nitro XZ322QPbmiiphx 31,5" (UM.JX2EE.P01) ----> 14 637
+Acer: Монитор Acer ED320QRPbiipx 31,5" (UM.JE0EE.P01) ----> 14 106
+BenQ: Монитор 27" BenQ SW270C Grey (9H.LHTLB.QBE) ----> 24 999
+BenQ: Монитор BenQ Zowie 24'' XL2411P LED (9HLGPLBQBE) ----> 10 737
+BenQ: Монитор BenQ 24'' ZOWIE XL2546 (9H.LG9LB.QBE) ----> 31 594
+BenQ: Монитор BenQ XL2420G (9H.LC5LB.QBE) ----> 31 042
+BenQ: Монитор BenQ XL2540K Dark Grey (9H.LJMLB.QBE) ----> 20 075
+BenQ: Монитор BenQ EX2710 Grey ----> 14 765
+BenQ: Монітор BenQ XL2420G (9H.LC5LB.QBE) ----> 30 349
+BenQ: Монитор BenQ XL2546K Dark Grey (9H.LJNLB.QBE) ----> 24 016
+BenQ: Монитор BenQ 27" GW2780 IPS Black; 1920x1080, 5 мс, 250 кд/м2, DisplayPort, HDMI, D-Sub, динамики 2х2 Вт ----> 7 417
+BenQ: Монитор BenQ 27" GW2780 IPS Black ----> 7 924
+BenQ: ЖК монитор BenQ GW2480T Black (9H.LHWLA.TBE) ----> 6 640
+BenQ: BenQ RL2755 (9H.LF2LB.QBE) ----> 10 868
+BenQ: Монитор BenQ ZOWIEXL2411K (9H.LJPLB.QBE) ----> 11 588
+BenQ: Монитор BenQ ZOWIE XL2731 (9H.LHRLB.QBE) ----> 16 278
+BenQ: Монитор BenQ 24" GW2480 (9H.LGDLA.TBE) ----> 7 763
+BenQ: Монитор BenQ 27" GL2780 (9H.LJ6LB.QBE) ----> 7 269
+BenQ: Монитор BenQ RP840G ----> 454 007
+BenQ: Монитор BenQ PD2700U Grey ----> 23 638
+BenQ: Монитор BenQ EX3210R (9H.LKALB.QBE) ----> 33 471
+BenQ: Монитор BenQ 21.5" GW2283 (9H.LHLLA.TBE) IPS Black; 1920x1080, 5 мс, 250кд/м2, D-Sub, 2хHDMI, динамики 2х1 Вт ----> 6 166
+BenQ: Монитор BenQ PD3200U Grey ----> 32 525
+BenQ: Монитор BenQ 24" EW2480 (9H.LJ3LA.TSE) ----> 7 899
+BenQ: Монитор BenQ 27" EX2780Q (9H.LJ8LA.TBE) ----> 18 043
+BenQ: Монітор BenQ EX2780Q Brown-Black (9H.LJ8LA.TBE) ----> 16 706
+BenQ: Монитор BenQ 27" PD2700U (9HLHALBQBE) ----> 28 237
+BenQ: Монитор BenQ 23,8" GW2480E (9H.LHELA.FBE) ----> 10 046
+BenQ: Монитор BenQ 27" ZOWIE XL2746S (9H.LJFLB.QBE) ----> 29 607
+BenQ: Монитор BenQ 27" PD2700Q (9H.LF7LA.TBE) ----> 18 006
+BenQ: Монитор BenQ EW3280U Metallic Brown-Black (9H.LJ2LA.TBE) ----> 32 109
+BenQ: Монитор BenQ EW3270U Metallic Grey (9H.LGVLA.TSE) ----> 19 293
+BenQ: Монитор BenQ 27" EW2780 (9H.LJ4LA.TSE) ----> 10 429
+BenQ: Монитор BenQ PD2700Q Black ----> 16 263
+BenQ: Монитор BenQ SW271C (9HLJTLBQBE) ----> 80 207
+BenQ: Монитор BenQ 32" PD3220U (9H.LH7LA.TBE) ----> 57 622
+BenQ: Монитор BenQ 23,8" BL2480T (9H.LHFLA.TBE) ----> 10 972
+Dell: Монитор 27" Dell S2722DC (210-BBRR) 75Hz / 8-Bit / USB Type-C Power Delivery 65W ----> 11 999
+Dell: Монитор 27" Dell S2721DGFA (210-AXRQ) ----> 15 999
+Dell: Монитор 27" Dell SE2722H (210-AZKS) ----> 6 599
+Dell: Монитор 23.8" Dell E2422H (2210-BBMC) ----> 6 299
+Dell: Монитор 27" Dell S2721HN (210-AXKV) ----> 7 699
+Dell: Монитор 27" Dell P2720DC (210-AUJS) USB Type-C 65W sRGB 99% ----> 13 599
+Dell: Монитор 23.8" Dell SE2422H (210-AZGT) ----> 5 699
+Dell: Монитор 27" Dell S2721HS (210-AXLD) ----> 8 199
+Dell: Монитор 27" Dell P2720D (210-AUOQ) ----> 11 499
+Dell: Монитор 27" Dell S2721H (210-AXLE) ----> 7 799
+Dell: Монитор 27" Dell P2722HE (210-AZZB) ----> 10 499
+Dell: Монитор 27" Dell U2722D (210-AYUK) ----> 17 999
+Dell: Монитор 23.8" Dell P2421D (210-AVKX) ----> 9 599
+Dell: Монитор 23" Dell P2319H Black (210-APWT) ----> 7 799
+Dell: Монитор 23.8" Dell E2422HN (210-BBSD) ----> 5 999
+Dell: Монитор 23.8" Dell S2421HS (210-AXKQ) ----> 6 999
+Dell: Монитор 21.5" Dell E2216HV (210-ALFS) ----> 4 599
+Dell: Монитор 27" Dell P2722H (210-AZYZ) ----> 9 499
+Dell: Монитор 27" Dell UltraSharp UP2716DA (210-AXWI) ----> 23 999
+Dell: Монитор 23.8" Dell S2422HZ (210-BBSJ) ----> 12 999
+Dell: Монитор Dell Alienware AW2720HFA (210-AXVY) ----> 19 304
+Dell: Монитор Dell 24" P2419H (210-APWU) ----> 8 864
+Dell: Монитор Dell U4919DW (210ARGK) ----> 67 829
+Dell: Монитор Dell UP3017 (210-AJLP) ----> 56 351
+Dell: Монитор Dell U2720Q (210-AVES) ----> 38 246
+Dell: Монитор Dell 24,1" UltraSharp U2415 (210AEVE) ----> 38 999
+Dell: Монитор Dell 210AXQM ----> 72 630
+Dell: Монитор Dell SE2422H (210-AZGT) ----> 7 213
+Dell: Монитор Dell P3221D (210-AXNJ) ----> 24 388
+HP: Монитор 27" HP P27q G4 (8MB11AA) 8-Bit - sRGB 99% ----> 8 599
+HP: Монитор 23.8" HP M24fd (474U1AA) 75Hz / USB Type-C 65W / 99% sRGB ----> 6 999
+HP: Монитор 27" HP M27fd (2H3Y8AA) USB Type-C 65W ----> 7 399
+HP: Монитор 27" HP EliteDisplay E27u G4 (189T3AA) USB Type-C 65W ----> 10 499
+HP: Монитор 31.5" HP 32s (2UD96AA) ----> 7 999
+LG: Монитор 27" LG 27GL83A-B ----> 12 999
+LG: Монитор 23.8" LG 24MP400-B ----> 4 799
+LG: Монитор 27" LG QHD Ergo 27QN880-B USB Type-C ----> 14 999
+LG: Монитор 31.5" LG 32MP60G-B ----> 7 999
+LG: Монитор 27" LG 27UP650-W ----> 13 499
+LG: Монитор 21.5" LG 22EA430V-B ----> 4 399
+LG: Монитор 34" LG 34GN850-B ----> 28 999
+LG: Монитор 27" LG UltraGear 27GP850-B ----> 15 999
+LG: Монитор 31.5" LG 4K UltraFine Ergo 32UN880-B ----> 24 999
+LG: Монитор 23.8" LG 24MK430H-B ----> 4 799
+LG: Монитор 37.5" LG UltraGear 38GN950-B ----> 43 799
+LG: Монитор 31.5" LG UltraFine 32UL950-W ----> 36 999
+LG: Монитор 34" LG UltraWide 34WK95U-W ----> 35 610
+LG: Монитор LG 23.8" 24MP400-B IPS Black; 1920x1080, 5 мс, 250 кд/м2, D-Sub, HDMI ----> 4 794
+LG: Монитор LG 27UL500-W ----> 12 826
+LG: Монитор LG 27" UltraGear 27GN850-B IPS Black; 2560х1440 (144 Гц), 1 мс, 350 кд/м2, DisplayPort, 2хHDMI ----> 17 370
+LG: Монитор LG 27" UltraGear 27GN850-B IPS Black ----> 17 400
+LG: Монитор 21.5" LG 22MK600M-B ----> 4 999
+LG: Монитор 23.8" LG 24EA430V-B ----> 4 999
+LG: Монитор LG 27QN600-B ----> 11 018
+LG: Монитор LG 27GN850-B ----> 17 710
+LG: Монитор LG 29UM69G-B ----> 11 305
+LG: Монитор LG 24MK600M-B ----> 6 846
+LG: Монитор LG 29WP500-B ----> 10 765
+LG: Монитор LG 27MP400-B ----> 8 159
+LG: LG 22MK430H-B ----> 6 198
+LG: LG 24MK430H-B ----> 5 864
+LG: Монитор LG 27UP850-W ----> 22 231
+LG: LG 27MP400-B ----> 8 216
+LG: LG 22EA430V-B ----> 5 491
+LG: Монитор LG 22MK430H-B ----> 5 948
+LG: Монитор LG 22EA430V-B ----> 5 693
+LG: Монитор LG 24EA430V-B ----> 6 493
+LG: LG 24MK600M-B ----> 7 247
+LG: Монитор LG 27MP60G-B ----> 10 073
+LG: ЖК монитор LG 32GN550-B ----> 14 910
+LG: Монитор LG 24MP400-B ----> 5 769
+LG: Монітор LCD 31.5" LG 32QN600-B 2xHDMI, DP, Audio, IPS, 2560x1440, sRGB 99%, HDR10, FreeSync ----> 13 759
+LG: Монитор LG 32QN600-B ----> 15 109
+LG: LG 24MP400-B ----> 5 864
+LG: Монитор LCD LG 23.8" 24MK430H-B D-Sub, HDMI, IPS, Free Sync ----> 5 769
+LG: Монітор LCD 27" LG 27MK600M-B D-Sub, 2xHDMI, Audio, IPS, FreeSync ----> 8 116
+LG: Монітор LG 27UL500-W ----> 13 033
+LG: Монитор LG 24MK430H-B (24MK430H-B) ----> 5 651
+LG: Монитор LG 24EA430V-B IPS Black (24EA430V-B) ----> 6 295
+LG: Монитор LG 24MP400-B, Black (24MP400-B) ----> 5 651
+LG: Монитор LG 22MK430H-B (22MK430H-B) ----> 6 008
+LG: Монитор LG UltraGear 32GN650-B ----> 13 962
+LG: Монитор LG 27GN800-B ----> 15 708
+LG: Монитор LG UltraWide 29WP500-B ----> 9 510
+LG: Монитор LG 32MP60G-B ----> 9 659
+LG: Монитор LG 24MP60G-B ----> 7 089
+LG: Монітор LG UltraWide 34WP500-B ----> 11 651
+MSI: Монитор MSI 27" Optix G27CQ4 ----> 10 302
+MSI: Монитор MSI 23.6" Optix G24C4 VA Black Curved; 1920x1080 (144 Гц), 250 кд/м2, 1 мс, DisplayPort, 2хHDMI ----> 9 460
+MSI: Монитор MSI 34" Optix MPG341CQR Black ----> 28 282
+MSI: Монитор MSI 27" Optix G271 IPS Black; 1920х1080 (144 Гц), 1 мс, 250 кд/м2, DisplayPort, 2xHDMI ----> 11 155
+MSI: Монитор MSI 24" OPTIX G24C6P (OPTIX G24C6P) ----> 8 686
+MSI: Монитор MSI Optix 23,8" G241V E2 ----> 7 886
+MSI: Монитор MSI 31.5" Optix G32CQ4 Black ----> 14 544
+MSI: Монитор MSI OPTIX G271 ----> 11 512
+MSI: Монитор MSI OPTIX G24C4 ----> 9 521
+MSI: Монитор MSI 27" Optix G271 IPS Black ----> 11 160
+MSI: Монитор MSI 23.6" Optix G24C4 VA Black Curved ----> 9 374
+MSI: Монитор MSI Optix 23,6" G241VC ----> 9 244
+MSI: Монитор MSI 24" MAG Artymis 242C (MAG ARTYMIS 242C) ----> 9 090
+MSI: Монитор MSI 23.6'' Optix G24C6 ----> 8 181
+MSI: Монитор MSI Optix 24" G241V ----> 8 565
+MSI: Монитор MSI Optix 34" MPG341CQRV ----> 54 290
+MSI: Монитор MSI Prestige 34" PS341WU ----> 58 992
+MSI: Монитор MSI 24" Modern MD241P Black ----> 6 666
+MSI: Монитор MSI Optix 24" G24C4 ----> 11 095
+MSI: Монитор MSI Optix 27" MAG272CQR ----> 22 202
+MSI: Монитор MSI Optix 23,8" MAG245R ----> 13 242
+MSI: Монитор MSI 27" Optix G27CQ4 VA Black Curved ----> 14 136
+MSI: Монитор MSI 27" Optix G27CQ4 VA Black Curved; 2560x1440 (165 Гц), 1 мс, 250 кд/м2, DisplayPort, 2хHDMI ----> 13 796
+MSI: Монитор MSI Optix MAG301CR2 (9S6-3CB45H-017) ----> 15 922
+MSI: Монитор MSI Optix 15,6" MAG161V ----> 13 933
+MSI: Монитор MSI Optix 34" MAG341CQ ----> 29 360
+MSI: Монитор MSI Pro 23.8" MP242 ----> 7 516
+MSI: Монитор MSI Optix MAG274QRF-QD (9S6-3CA8DA-039) ----> 21 607
+MSI: Монітор MSI Creator PS321URV ----> 42 469
+MSI: Монитор MSI Optix 27" MPG27CQ2 ----> 27 139
+MSI: Монитор MSI Creator 32" PS321URV ----> 53 056
+MSI: Монитор MSI 31.5" Optix AG321CR ----> 18 500
+MSI: Монитор MSI Pro 27" MP271P ----> 10 095
+MSI: Монитор MSI Optix 34" MAG342CQRV ----> 25 658
+MSI: Монитор MSI Pro MP271P (9S6-3PA2AT-010) ----> 8 823
+MSI: Монитор MSI Optix G27CQ4 (OPTIX G27C4) ----> 11 804
+MSI: Монитор MSI Creator PS321QR (CREATOR_PS321QR) ----> 38 353
+MSI: Монитор MSI Optix MAG321CURV ----> 23 607
+MSI: Монитор MSI Optix 27" MAG274QRFQD ----> 26 275
+MSI: Монитор MSI Optix 34" MAG342CQR ----> 31 076
+MSI: Монитор MSI Optix 30" MAG301CR2 ----> 18 006
+MSI: Монитор MSI Optix 24,5" MAG251RX ----> 20 228
+MSI: Монитор MSI Optix 27" MAG273R ----> 17 266
+MSI: Монитор MSI Optix 27" G272 ----> 12 946
+MSI: Монитор MSI Oculux 24,5" NXG253R ----> 37 296
+MSI: Монитор MSI Optix 27" MAG274R2 ----> 14 180
+MSI: Монитор MSI PRO MP271 ----> 10 487
+MSI: Монитор MSI Pro MP271 (9S6-3PA2CT-005) ----> 8 120
+MSI: Монітор MSI MPG Artymis 323CQR (9S6-3DB15T-010) ----> 23 804
+MSI: Монитор MSI Optix G32CQ4 ----> 18 862
+MSI: Монитор MSI Optix G241 ----> 9 765
+MSI: Монитор MSI Optix MAG322CR ----> 18 275
+MSI: Монитор MSI OPTIX G27CQ4P ----> 18 286
+MSI: Монитор MSI Optix 27" G273QF ----> 19 931
+MSI: Монитор MSI Optix 34" MPG341CQR ----> 47 934
+MSI: Монитор MSI Optix 27" G27CQ4 ----> 16 649
+MSI: Монитор MSI Optix 27" G27C4 ----> 17 439
+MSI: Монитор MSI Optix G272 (9S6-3CB51T-023) ----> 11 804
+MSI: Монитор MSI Optix MAG275R (9S6-3CB5AT-029) ----> 14 745
+Philips: Монитор 21.5" Philips 221V8 /00/01 ----> 4 399
+Philips: Монитор 23.6'' Philips 243V5QSBA /00/01 ----> 4 599
+Philips: Монитор 21.5" Philips V Line 222V8LA /00/01 ----> 4 399
+Philips: Монитор 27" Philips E-Line 275E1S /00/01 ----> 8 299
+Philips: Монитор 21.5" Philips 221V8A/00 ----> 4 299
+Philips: Монитор 23.8" Philips 243V7QJABF /00/01 ----> 5 299
+Philips: Монитор 27" Philips 275E2FAE/00 ----> 8 699
+Philips: Монитор 27" Philips 273V7QDSB /00/01 ----> 5 499
+Philips: Монитор 21.5" Philips 223V5LSB2/10/62 ----> 3 929
+Philips: Монитор 27" Philips 273V7QDAB /00/01 ----> 5 699
+Philips: Монитор 21.5" Philips V-line 223V5LHSB2 /00/01 ----> 4 099
+Philips: Монитор 23.8" Philips 241E2FD/00 ----> 5 499
+Philips: Монитор 21.5" Philips 221V8LD /00/01 ----> 4 299
+Philips: Монитор 23.6'' Philips 243V5QHABA /00/01 ----> 4 699
+Philips: Монитор 27" Philips E Line 4K Ultra HD 278E1A /00/01 ----> 9 999
+Philips: Монитор 21.5" Philips 223V5LHSB /00/01 ----> 4 099
+Philips: Монитор 21.5" Philips V-line 223V5LSB /00/01 ----> 3 919
+Philips: Монитор 31.5" Philips 327E8QJAB/00 ----> 8 099
+Philips: Монитор 23.8" Philips 243V7QDSB/ 00/01 ----> 5 059
+Philips: Монитор 27" Philips 275S1AE/00 ----> 9 399
+Philips: Монитор 31.5" Philips P Line 329P1H/00 ----> 24 999
+Philips: Монитор 23.8" Philips 243S7EHMB/00 ----> 6 599
+Philips: Монитор 21.5" Philips 223V7QDSB/00/01 ----> 4 549
+Philips: Монитор 27" Philips 275B1H/00 ----> 11 299
+Philips: Монитор 27'' Philips E-Line 276E8VJSB/00/01 ----> 10 999
+Philips: Монитор 21.5" Philips 220V8 /00/01 ----> 4 199
+Philips: Монитор 21.5" Philips 223V7QHAB /00/01 ----> 4 999
+Philips: Монитор Philips 24" 241V8LA/00 ----> 5 942
+Philips: Монитор Philips 21.5" 223V5LSB2/10 TN Black; 1920х1080, 5мс, 200 кд/м2, D-Sub ----> 4 156
+Philips: Монитор Philips 18.5" 193V5LSB2/10 Black; 1366x768, 5 мс, 200 кд/м2, D-Sub ----> 4 637
+Philips: Монитор Philips Monitor C-Line 75Bdl8051C/00 Uchwyt I Kabel Hdmi ----> 862 670
+Philips: Монитор Philips 21.5" 222V8LA/00 VA Black; 1920x1080, 4 мс, 250 кд/м2, DisplayPort, HDMI, D-Sub, динамики 2х1 Вт ----> 4 618
+Philips: Монитор Philips Monitor C-Line 86Bdl8051C/00 Uchwyt I Kabel Hdmi ----> 663 108
+Philips: Монитор Philips 21.5" 221V8/00 VA Black; 1920x1080, 4 мс, 250 кд/м2, HDMI, D-Sub ----> 4 514
+Philips: Монитор Philips Monitor D-Line 98Bdl4550D/00 Uchwyt I Kabel Hdmi ----> 925 612
+Philips: Монитор Philips 21.5" 221V8/00 VA Black ----> 4 544
+Philips: Монитор Philips 55BDL9018L/00 ----> 1 138 503
+Philips: Монитор Philips 21.5" 221V8/01 VA Black; 1920x1080, 4 мс, 250 кд/м2, HDMI, D-Sub ----> 5 374
+Philips: Монитор Philips 21.5" 222B9T/00 TN Black SmoothTouch; 1920x1080, 1 мс, 250 кд/м2, DisplayPort, HDMI, DVI, D-Sub, 2хUSB3.0, динамики 2х1 Вт ----> 13 601
+Philips: Монитор Philips 27" 273V7QDAB/01 IPS Black; 1920x1080, 5 мс, 250 кд/м2, HDMI, DVI, D-Sub, динамики 2х2 Вт ----> 7 609
+Philips: Монитор Philips 21.5" 223V7QHAB/00 IPS Black; 1920x1080, 4 мс, 250 кд/м2, D-Sub, HDMI, динамики 2х2Вт ----> 5 294
+Philips: Монитор Philips 21.5" 223V5LSB2/62 TN Black; 1920х1080, 5мс, 200 кд/м2, D-Sub ----> 5 070
+Philips: Монитор Philips 19.5" 203V5LSB26/10 Black; 1600x900, 5 мс, 200 кд/м2, D-Sub ----> 4 754
+Philips: Монитор Philips 200V4QSBR/00 /01. 56077 ----> 6 115
+Samsung: Монитор 23.8" Samsung S24R350 Dark Silver (LS24R350FHIXCI / LS24R350FZIXCI) ----> 4 999
+Samsung: Монитор 24" Samsung Professional S24R650 (LS24R650FDIXCI) ----> 5 699
+Samsung: Монитор 23.8" Samsung F24T350FHI Dark Gray (LF24T350FHIXCI) ----> 4 799
+Samsung: Монитор 28" Samsung Odyssey G7 S28AG702 (LS28AG702NIXCI) ----> 20 499
+Samsung: Mонитор 27" Samsung Curved C27F396F (LC27F396FHIXCI) ----> 5 599
+Samsung: Монитор 31.5" Samsung LU32J590UQIXCI - 10-bit - sRGB 100% ----> 9 499
+Samsung: Mонитор 23.5" Samsung Curved C24F396F (LC24F396FHIXCI) - HDMI-кабель в комплекте ----> 4 699
+Samsung: Mонитор 23.5" Samsung Gaming C24RG50 (LC24RG50FQIXCI / LC24RG50FZIXCI) ----> 6 299
+Samsung: Монитор 24" Samsung LF24T450 Black (LF24T450FQIXCI) ----> 5 499
+Samsung: Mонитор 34" Samsung Curved C34H890 (LC34H890WGIXCI) - USB Type-C 65W - 8-Bit - sRGB 99.5% ----> 13 999
+Samsung: Монитор 27" Samsung S27A600 (LS27A600NWIXCI) ----> 9 799
+Samsung: Монитор 27" Samsung Odyssey AG50 S27AG502NI (LS27AG502NIXCI) ----> 12 999
+Samsung: Монитор 21.5" Samsung S22F350F (LS22F350FHIXCI) ----> 4 199
+Samsung: Монитор 27" Samsung S8 S27A800U (LS27A800UNIXCI) USB Type-C 90 Вт ----> 12 999
+Samsung: Монитор 34" Samsung Odyssey G5 LC34G55T Black (LC34G55TWWIXCI) ----> 14 999
+Samsung: Mонитор 27" Samsung Odyssey G3 F27G35TFW Black (LF27G35TFWIXCI) ----> 7 699
+Samsung: Mонитор 48.9" Samsung Odyssey G9 LC49G95TSSIXCI (LC49G95TSSIXCI) ----> 36 999
+Samsung: Mонитор 24" Samsung Odyssey G3 F24G35TFW Black (LF24G35TFWIXCI) ----> 7 199
+Samsung: Монитор 27" Samsung Odyssey AG50 S27AG500NI (LS27AG500NIXCI) ----> 12 999
+Samsung: Монитор Samsung 32" S32A600 (LS32A600NWIXCI) ----> 10 499
+Samsung: Монитор Samsung 27" LF27G35TFWI (LF27G35TFWIXCI) VA Black; 1920х1080 (144 Гц), 1 мс, 250 кд/м2, DisplayPort, HDMI, D-Sub ----> 7 343
+Samsung: Монитор Samsung 23.8" F24T450FQI (LF24T450FQIXCI) IPS Black; 1920х1080, 5 мс, 250 кд/м2, DisplayPort, 2хHDMI, 2хUSB2.0 ----> 5 511
+Samsung: Монитор Samsung 23.8" Odyssey G3 (LF24G35TFWIXCI) VA Black; 1920х1080 (144 Гц), 1 мс, 250 кд/м2, DisplayPort, HDMI, D-Sub ----> 7 169
+Samsung: Монитор Samsung 21.5" F22T350FHI (LF22T350FHIXCI) IPS Black; 1920х1080, 5 мс, 250 кд/м2, HDMI, D-Sub ----> 4 320
+Samsung: Монитор Samsung 27" LF27G35TFWI (LF27G35TFWIXCI) ----> 7 373
+Samsung: Монитор Samsung 27" F27T350FHI (LF27T350FHIXCI) IPS Black; 1920х1080, 5 мс, 250 кд/м2, HDMI, D-Sub ----> 5 494
+Samsung: Монитор Samsung 27" F27T450FQI (LF27T450FQIXCI) IPS Black; 1920х1080, 5 мс, 250 кд/м2, 2хHDMI, DisplayPort, 2хUSB2.0 ----> 6 300
+Samsung: Монитор Samsung 21.5" S22F350F (LS22F350FHIXCI) Black; 1920 x 1080, 5mc, 200 кд/м2, HDMI, D-Sub ----> 4 194
+Samsung: Монитор Samsung 28" U28R550UQI (LU28R550UQIXCI) IPS Black/Grey ----> 11 640
+Samsung: Монитор Samsung C49J890DKUX (LC49J890DKUXEN) ----> 45 872
+Samsung: Монитор Samsung C34H890WGR Black (LC34H890WGRXEN) ----> 25 350
+Samsung: Монитор Samsung 28" U28R550UQI (LU28R550UQIXCI) IPS Black/Grey; 3840х2160, 4 мс, 300 кд/м2, DisplayPort, 2хHDMI ----> 9 994
+Samsung: Монитор Samsung 23.8" F24T350FHI (LF24T350FHIXCI) IPS Black; 1920х1080, 5 мс, 250 кд/м2, HDMI, D-Sub ----> 4 794
+Samsung: Монитор Samsung 27" C27F390F (LC27F390FHIXCI) VA Black Curved ----> 8 400
+Samsung: Монитор Samsung 27" S27R650 (LS27R650FDIXCI) IPS Dark Blue Gray; 1920х1080, 5 мс, 250 кд/м2, DisplayPort, HDMI, D-Sub, 2хUSB3.0, 2хUSB2.0 ----> 6 994
+Samsung: ЖК монитор Samsung U32J590 Black (LU32J590UQRXEN) ----> 12 980
+Samsung: Монитор CURVED LED LCD Samsung 27" C27F390F FHD 4ms, D-Sub, HDMI, VA, Headphone, Bl (LC27F390FHIXCI) ----> 6 768
+Samsung: Монитор Samsung 21.5" F22T350FHI (LF22T350FHIXCI) IPS Black ----> 5 520
+Samsung: Монитор Samsung C24F390FHI (LC24F390FHIXCI) ----> 6 015
+Samsung: Монитор Samsung F22T350FHI (LF22T350FHIXCI) ----> 5 551
+Samsung: Samsung F22T350 (LF22T350FHIXCI) ----> 5 555
+Samsung: Монитор Samsung 23.8" Odyssey G3 (LF24G35TFWIXCI) VA Black ----> 8 280
+Samsung: Монитор Samsung 27" S27R650 (LS27R650FDIXCI) IPS Dark Blue Gray ----> 8 640
+Samsung: Монитор Samsung 27" F27T350FHI (LF27T350FHIXCI) IPS Black ----> 8 400
+Samsung: Монитор Samsung 23.8" F24T450FQI (LF24T450FQIXCI) IPS Black ----> 7 080
+Samsung: Монитор Samsung 27" C27F390F (LC27F390FHIXCI) VA Black Curved; 1920х1080, 4 мс, 250 кд/м2, HDMI, D-Sub ----> 6 581
+Samsung: Монитор Samsung S22F350F (LS22F350FHIXCI) ----> 5 114
+Samsung: ЖК монитор Samsung C24F390F (LC24F390FHIXCI) ----> 5 915
+Samsung: Монитор Samsung 23.8" F24T350FHI (LF24T350FHIXCI) IPS Black ----> 7 200
+
+146.01 seconds passed
