@@ -36,7 +36,7 @@ def print_product(product):
 	for key in product:
 		for model, price in product.get(key).items():
 			print(f'{key}: {model} ----> {price}')
-	print()
+	print('--------------------------------------------------------------')
 
 async def get_catalog(url, session):
 	res = await session.get(url)
@@ -99,15 +99,6 @@ async def main():
 				tasks.append(task)
 
 		await asyncio.gather(*tasks)
-
-	# print_product(phones)
-	# print_product(tvs)
-	# print_product(watches)
-	# print_product(tablets)
-	# print_product(headphones)
-	# print_product(laptops)
-	# print_product(computers)
-	print_product(displays)
 
 if __name__ == '__main__':
 	start = time.time()
