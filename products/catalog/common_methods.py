@@ -25,5 +25,12 @@ def get_product_info(soup, products, producer):
 			p = int(price[idx].text.strip().replace(u'\xa0', u''))
 			s = is_stored[idx].text.strip()
 
+			if '(' in m:
+				m = m.split('(')[0]
+			if 'Официальная' in m:
+				m = m.split('Официальная')[0]
+			if '[' in m:
+				m = m.split('[')[0]
+
 			if producer in m and m not in products[producer] and s in ('Есть в наличии', 'Готов к отправке'):
 				products[producer][m] = [p, l]

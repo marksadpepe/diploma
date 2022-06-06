@@ -1,7 +1,7 @@
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup as bs
-from common_methods import get_product_info
+from .common_methods import get_product_info
 
 async def get_first_headphones(session, headphones, producer):
 	url = f'https://rozetka.com.ua/naushniki-i-aksessuari/c4660594/producer={producer}/'
