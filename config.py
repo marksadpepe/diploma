@@ -1,3 +1,3 @@
-rozetka_url = 'https://rozetka.com.ua/'
+TOKEN = '5583923220:AAH1DCVYIrfdQEc8AtGSXM_aVsA5PPxWZkE'
 
-iphones_url = 'https://rozetka.com.ua/mobile-phones/c80003/page=2;producer=apple/'
+categories_callback = ('tv', 'phone', 'watch', 'tablet', 'laptop', 'dispaly', 'computer', 'headphones')

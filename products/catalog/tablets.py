@@ -1,7 +1,7 @@
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup as bs
-from common_methods import get_product_info
+from .common_methods import get_product_info
 
 async def get_first_tablets(session, tablets, producer):
 	url = f'https://rozetka.com.ua/tablets/c130309/producer={producer}/'
