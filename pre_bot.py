@@ -4,6 +4,7 @@ import config
 import telebot
 import products
 from loguru import logger
+from telegram_bot_pagination import InlineKeyboardPaginator
 
 brand_tables = {}
 database_path = './datab/dbs'
@@ -11,16 +12,16 @@ bot = telebot.TeleBot(config.TOKEN)
 products_info = asyncio.run(products.collect_info.collect_products_info())
 table_names = ('tv', 'phone', 'watch', 'tablet', 'laptop', 'display', 'computer', 'headphones')
 
-# @bot.message_handler(commands=['ok'])
-# def send_keyboard(msg):
-# 	keyboard = telebot.types.InlineKeyboardMarkup()
-# 	btn1 = telebot.types.InlineKeyboardButton(text='1', callback_data='1')
-# 	btn2 = telebot.types.InlineKeyboardButton(text='2', callback_data='2')
-# 	keyboard.add(btn1)
-# 	keyboard.add(btn2)
-# 	bot.send_message(msg.chat.id, text='Choose', reply_markup=keyboard)
+@bot.message_handler(commands=['ok'])
+def send_keyboard(msg):
+	keyboard = telebot.types.InlineKeyboardMarkup()
+	btn1 = telebot.types.InlineKeyboardButton(text='1', callback_data='1')
+	btn2 = telebot.types.InlineKeyboardButton(text='2', callback_data='2')
+	keyboard.add(btn1)
+	keyboard.add(btn2)
+	bot.send_message(msg.chat.id, text='Choose', reply_markup=keyboard)
 
-# @bot.callback_query_handler(func=lambda call: call.data == '1')
+# @bot.callback_query_handler(func=lambda call: call.data == '1' or call.data == '2')
 # def callback_category(call: telebot.types.CallbackQuery):
 # 	keyboard1 = telebot.types.InlineKeyboardMarkup()
 # 	btn1 = telebot.types.InlineKeyboardButton(text='3', callback_data='3')
@@ -86,14 +87,15 @@ for item in table_names:
 			brand_tables[item][b] = {}
 		for m in models:
 			_, model_name, price, link, _ = m
-			if model_name not in brand_tables[item][b]:
-				brand_tables[item][b][model_name] = []
-			brand_tables[item][b][model_name].append(price)
-			brand_tables[item][b][model_name].append(link)
+			if b.lower() in model_name.lower():
+				if model_name not in brand_tables[item][b]:	
+					brand_tables[item][b][model_name] = []
+				brand_tables[item][b][model_name].append(price)
+				brand_tables[item][b][model_name].append(link)
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(msg):
-	bot.send_message(msg.chat.id, 'Доброго дня! Я помічник для швидкого придбання або перегляду товару того бренду, який Вас зацікавить. Для цього напишіть команду /buy')
+	bot.send_message(msg.chat.id, 'Доброго дня! Я помічник для швидкого придбання або перегляду товару того бренду, який Вас зацікавить. Для цього напишіть (або натисніть на) команду /buy.')
 
 @bot.message_handler(commands=['buy'])
 def get_categories(msg):
@@ -110,17 +112,17 @@ def get_categories(msg):
 		if idx != 0:
 			idx += idx
 		keyboard.row(buttons[idx], buttons[idx + 1])
-	bot.send_message(msg.chat.id, text='Оберіть категорію\n', reply_markup=keyboard)
+	bot.send_message(msg.chat.id, text='Оберіть категорію:\n', reply_markup=keyboard)
 
 @bot.callback_query_handler(func=lambda call: call.data in brand_tables)
-def callback_category(call: telebot.types.CallbackQuery):
+def get_brands(call: telebot.types.CallbackQuery):
 	keyboard = telebot.types.InlineKeyboardMarkup()
 	keyboard.row_width = 2
 
 	btns = []
 	b_table = brand_tables[call.data]
 	for b in brand_tables[call.data]:
-		key_brand = telebot.types.InlineKeyboardButton(text=f'{b}', callback_data=f'{call.data}_brand')
+		key_brand = telebot.types.InlineKeyboardButton(text=f'{b}', callback_data=f'{call.data}_{b}')
 		btns.append(key_brand)
 
 	if len(btns) % 2 == 0:
@@ -134,10 +136,20 @@ def callback_category(call: telebot.types.CallbackQuery):
 				idx += idx
 			keyboard.row(btns[idx], btns[idx + 1])
 		keyboard.add(btns[-1])
-	bot.send_message(call.message.chat.id, text='Оберіть бренд продукту\n', reply_markup=keyboard)
+	bot.send_message(call.message.chat.id, text='Оберіть бренд продукту:\n', reply_markup=keyboard)
 	# bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id)
 
+@bot.callback_query_handler(func=lambda call: call.data.split('_')[0] in brand_tables and call.data.split('_')[1] in brand_tables[call.data.split('_')[0]])
+def get_models(call):
+	text = ''
+	product, brand = call.data.split('_')[0], call.data.split('_')[1]
+	for i, model in enumerate(brand_tables[product][brand], start=1):
+		text += f'{i}. {model}\n'
 
+	if text == '':
+		bot.send_message(call.message.chat.id, text='Вибачте, але зараз продуктів цього бренду немає в наявності.\n')
+	else:
+		bot.send_message(call.message.chat.id, text=text)
 
 if __name__ == '__main__':
 	logger.info(f'\n\tNow u can interact with the bot')

@@ -25,6 +25,8 @@ def get_product_info(soup, products, producer):
 			p = int(price[idx].text.strip().replace(u'\xa0', u''))
 			s = is_stored[idx].text.strip()
 
+			if 'Амбушури' in m or 'Гарнитура' in m or 'Гарнітура' in m:
+				continue
 			if '(' in m:
 				m = m.split('(')[0]
 			if 'Официальная' in m:
