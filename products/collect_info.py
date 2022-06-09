@@ -16,14 +16,14 @@ displays = {}
 computers = {}
 headphones = {}
 
-tv_producers = ('lg', 'philips', 'samsung', 'sony', 'xiaomi')
-phone_producers = ('apple', 'huawei', 'oppo', 'oneplus', 'samsung', 'xiaomi')
-watch_producers = ('amazfit', 'apple', 'honor', 'huawei', 'samsung', 'xiaomi')
-tablet_producers = ('alcatel', 'apple', 'huawei', 'lenovo', 'microsoft', 'samsung')
-laptop_producers = ('asus', 'acer', 'apple', 'dell', 'hp', 'lenovo', 'msi', 'microsoft')
-display_producers = ('aoc', 'asus', 'acer', 'benq', 'dell', 'hp', 'lg', 'msi', 'philips', 'samsung')
-computer_producers = ('artline', 'asus', 'acer', 'apple', 'cobra', 'dell', 'everest', 'hp', 'lenovo')
-headphone_producers = ('apple', 'huawei', 'jbl', 'logitech', 'panasonic', 'razer', 'samsung', 'sony', 'xiaomi')
+tv_producers = ('lg', 'philips', 'samsung', 'sony', 'xiaomi') # 5
+phone_producers = ('apple', 'huawei', 'oppo', 'oneplus', 'samsung', 'xiaomi') # 6
+watch_producers = ('amazfit', 'apple', 'honor', 'huawei', 'samsung', 'xiaomi') # 6
+tablet_producers = ('alcatel', 'apple', 'huawei', 'lenovo', 'microsoft', 'samsung') # 6
+laptop_producers = ('asus', 'acer', 'apple', 'dell', 'hp', 'lenovo', 'msi', 'microsoft') # 8
+display_producers = ('aoc', 'asus', 'acer', 'benq', 'dell', 'hp', 'lg', 'msi', 'philips', 'samsung') # 10
+computer_producers = ('artline', 'asus', 'acer', 'apple', 'cobra', 'dell', 'everest', 'hp', 'lenovo') # 9
+headphone_producers = ('apple', 'huawei', 'jbl', 'logitech', 'panasonic', 'razer', 'samsung', 'sony', 'xiaomi') # 9
 
 def print_product(product):
 	for key in product:
