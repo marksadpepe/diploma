@@ -7,7 +7,7 @@ from loguru import logger
 from telegram_bot_pagination import InlineKeyboardPaginator
 
 counter = 0
-brand_tables = {}
+main_table = {}
 product, brand = None, None
 database_path = './datab/dbs'
 bot = telebot.TeleBot(config.TOKEN)
@@ -29,19 +29,19 @@ for item in table_names:
 	table = cursor.fetchall()
 	cursor.execute(f'SELECT * FROM {item}_models;')
 	models = cursor.fetchall()
-	if item not in brand_tables:
-		brand_tables[item] = {}
+	if item not in main_table:
+		main_table[item] = {}
 	for t in table:
 		_, b = t
-		if b not in brand_tables[item]:
-			brand_tables[item][b] = {}
+		if b not in main_table[item]:
+			main_table[item][b] = {}
 		for m in models:
 			_, model_name, price, link, _ = m
 			if b.lower() in model_name.lower():
-				if model_name not in brand_tables[item][b]:	
-					brand_tables[item][b][model_name] = []
-				brand_tables[item][b][model_name].append(price)
-				brand_tables[item][b][model_name].append(link)
+				if model_name not in main_table[item][b]:	
+					main_table[item][b][model_name] = []
+				main_table[item][b][model_name].append(price)
+				main_table[item][b][model_name].append(link)
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(msg):
@@ -64,14 +64,14 @@ def get_categories(msg):
 		keyboard.row(buttons[idx], buttons[idx + 1])
 	bot.send_message(msg.chat.id, text='Оберіть категорію:\n', reply_markup=keyboard)
 
-@bot.callback_query_handler(func=lambda call: call.data in brand_tables)
+@bot.callback_query_handler(func=lambda call: call.data in main_table)
 def get_brands(call: telebot.types.CallbackQuery):
 	keyboard = telebot.types.InlineKeyboardMarkup()
 	keyboard.row_width = 2
 
 	btns = []
-	b_table = brand_tables[call.data]
-	for b in brand_tables[call.data]:
+	b_table = main_table[call.data]
+	for b in main_table[call.data]:
 		key_brand = telebot.types.InlineKeyboardButton(text=f'{b}', callback_data=f'{call.data}_{b}')
 		btns.append(key_brand)
 
@@ -89,7 +89,7 @@ def get_brands(call: telebot.types.CallbackQuery):
 	bot.send_message(call.message.chat.id, text='Оберіть бренд продукту:\n', reply_markup=keyboard)
 	bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id)
 
-@bot.callback_query_handler(func=lambda call: call.data.split('_')[0] in brand_tables and call.data.split('_')[1] in brand_tables[call.data.split('_')[0]])
+@bot.callback_query_handler(func=lambda call: call.data.split('_')[0] in main_table and call.data.split('_')[1] in main_table[call.data.split('_')[0]])
 def get_models(call):
 	global counter
 	global product
@@ -97,16 +97,16 @@ def get_models(call):
 	text = 'Оберіть варінт моделі продукту, впишіть його та відправте боту.\n\n'
 
 	product, brand = call.data.split('_')[0], call.data.split('_')[1]
-	if len(brand_tables[product][brand]) == 0:
+	if len(main_table[product][brand]) == 0:
 		bot.send_message(call.message.chat.id, text='Вибачте, але зараз продуктів цього бренду немає в наявності.\n')
 
-	elif 0 < len(brand_tables[product][brand]) <= 10:
-		for i, model in enumerate(brand_tables[product][brand], start=1):
+	elif 0 < len(main_table[product][brand]) <= 10:
+		for i, model in enumerate(main_table[product][brand], start=1):
 			text += f'{i}. {model}\n'
 		bot.send_message(call.message.chat.id, text=text)
 
 	else:
-		for k, key in enumerate(brand_tables[product][brand], start=1):
+		for k, key in enumerate(main_table[product][brand], start=1):
 			if k > 10 and str(k)[-1] == '1':
 				counter = k
 				break
@@ -119,35 +119,37 @@ def get_next_models(call):
 	global counter
 	global product
 	global brand
-	# bot.delete_message(call.message.chat.id, call.message.message_id)
-	text = 'Оберіть варінт моделі продукту, впишіть його та відправте боту.\n\n'
+	text = 'Оберіть варінт (номер) моделі продукту, впишіть його та відправте боту.\n\n'
 	page = int(call.data.split('#')[1])
 
-	for k, key in enumerate(brand_tables[product][brand], start=1):
+	for k, key in enumerate(main_table[product][brand], start=1):
 		if k > counter and str(k)[-1] == '1':
 				counter = k
 				break
-		if int(k) >= int(counter):
+		if k >= counter:
 			text += f'{k}. {key}\n'
 	bot.delete_message(call.message.chat.id, call.message.message_id)
 	send_models_page(call.message, product, brand, text, page)
 
 @bot.message_handler(content_types=['text'])
 def get_model_info(msg):
+	global prodcut
+	global brand
 	price = 0
 	keyboard = telebot.types.InlineKeyboardMarkup()
 
-	for i, item in enumerate(brand_tables[product][brand], start=1):
+	for i, item in enumerate(main_table[product][brand], start=1):
 		if int(i) == int(msg.text):
-			price = brand_tables[product][brand][item][0] 
-			link = brand_tables[product][brand][item][1]
+			price = main_table[product][brand][item][0] 
+			link = main_table[product][brand][item][1]
 			key_link = telebot.types.InlineKeyboardButton(text=item, url=link)
 			keyboard.add(key_link)
-	# bot.delete_message(msg.chat.id, msg.message_id)
+	bot.delete_message(msg.chat.id, msg.message_id)
 	bot.send_message(msg.chat.id, text=f'Ціна обраного товару: {price} грн.', reply_markup=keyboard)
 
 def send_models_page(message, pr, br, text, page=1):
-	paginator = InlineKeyboardPaginator(len(brand_tables[pr][br]), current_page=page, data_pattern='model#{page}')
+	page_len = (len(main_table[pr][br]) // 10) + 1
+	paginator = InlineKeyboardPaginator(page_len, current_page=page, data_pattern='model#{page}')
 	bot.send_message(message.chat.id, text=text, reply_markup=paginator.markup)
 
 if __name__ == '__main__':
