@@ -18,7 +18,7 @@ table_names = ('tv', 'phone', 'watch', 'tablet', 'laptop', 'display', 'computer'
 db = datab.sql.Database()
 connection, cursor = db.create_db('rozetka', './datab/dbs')
 db.create_categories_table(cursor, connection)
-db.create_products_table(products_info, table_names, cursor, connection)
+db.create_brands_table(products_info, table_names, cursor, connection)
 db.create_models_table(products_info, table_names, cursor, connection)
 
 cursor.execute('SELECT * FROM categories;')
@@ -137,15 +137,17 @@ def get_model_info(msg):
 	global brand
 	price = 0
 	keyboard = telebot.types.InlineKeyboardMarkup()
-
-	for i, item in enumerate(main_table[product][brand], start=1):
-		if int(i) == int(msg.text):
-			price = main_table[product][brand][item][0] 
-			link = main_table[product][brand][item][1]
-			key_link = telebot.types.InlineKeyboardButton(text=item, url=link)
-			keyboard.add(key_link)
-	bot.delete_message(msg.chat.id, msg.message_id)
-	bot.send_message(msg.chat.id, text=f'Ціна обраного товару: {price} грн.', reply_markup=keyboard)
+	msg_text = msg.text
+	if msg_text.isdigit() is False:
+		bot.send_message(msg.chat.id, text=f'Будь ласка, введіть номер моделі або команду.')
+	else:
+		for i, item in enumerate(main_table[product][brand], start=1):
+			if int(i) == int(msg_text):
+				price = main_table[product][brand][item][0]
+				link = main_table[product][brand][item][1]
+				key_link = telebot.types.InlineKeyboardButton(text=item, url=link)
+				keyboard.add(key_link)
+		bot.send_message(msg.chat.id, text=f'Ціна обраного товару: {price} грн.', reply_markup=keyboard)
 
 def send_models_page(message, pr, br, text, page=1):
 	page_len = (len(main_table[pr][br]) // 10) + 1

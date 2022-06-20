@@ -24,7 +24,7 @@ class Database():
 			cursor.execute('INSERT INTO categories VALUES (?, ?);', (i, p))
 		connection.commit()
 
-	def create_products_table(self, product_info, db_names:tuple, cursor, connection):
+	def create_brands_table(self, product_info, db_names:tuple, cursor, connection):
 		logger.info('\n\tCreating brand table for each category\n')
 		for i, item in enumerate(product_info, start=0):
 			brands = []
@@ -60,8 +60,7 @@ class Database():
 							model TEXT,
 							price TEXT,
 							link TEXT,
-							brand TEXT,
-							FOREIGN KEY (brand) REFERENCES {parent_table} (brand)
+							brand TEXT
 						);
 					"""
 				)
